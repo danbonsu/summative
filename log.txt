@@ -1,10 +1,7 @@
 
-20180220_18:07:48 - Sensor is at location0
-20180220_18:07:48 - Sensor is at location4
-20180220_18:07:48 - Sensor is at location6
-20180220_18:08:01 - Sensor is at location4
-20180220_18:08:01 - Sensor is at location6
-20180220_18:08:01 - Sensor is at location31
-20180220_18:08:49 - Problem happened with sensor at location3
-20180220_18:08:49 - Problem happened with sensor at location4
-20180220_18:08:49 - Problem happened with sensor at location6
+20180220_18:35:25 - Problem happened with sensor at location 3
+20180220_18:35:25 - Problem happened with sensor at location 4
+20180220_18:35:25 - Problem happened with sensor at location 6
+20180220_18:35:36 - Problem happened with sensor at location 3
+20180220_18:35:36 - Problem happened with sensor at location 4
+20180220_18:35:36 - Problem happened with sensor at location 6
